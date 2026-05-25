@@ -1,0 +1,17 @@
+# Documentation files (excluded from repo)
+PROJECT_DOCUMENTATION.md
+RESUME_POINTS.md
+Tanish_Tyagi_Resume.md
+Tanish_Tyagi_Resume.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
